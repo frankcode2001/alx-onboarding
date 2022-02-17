@@ -1,0 +1,10 @@
+Sorting a three-digit number in ascending order 
+number = INPUT(3-digit number)
+empty_list = []
+
+FOR num in number
+    Append num to empty_list
+    Sort the numbers appended to list
+    Join the numbers from the list
+
+PRINT(list)

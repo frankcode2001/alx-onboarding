@@ -1,0 +1,13 @@
+Summing up the inputted numbers and stopping when a negative number is entered
+
+summ = 0
+inital_number = 1
+
+WHILE initial_number is > or = 0
+    number = INPUT(integer)
+    number = number + 1
+    summation = (summ + number)
+    PRINT(summation)
+
+ELSE
+    Break
